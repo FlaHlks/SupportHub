@@ -1,0 +1,1 @@
+SupportHub é uma API RESTful de gerenciamento de chamados de suporte, desenvolvida em Java e Spring Boot, com controle de acesso baseado em perfis, atribuição de chamados, gerenciamento de estados e operações seguras contra problemas de concorrência. Projeto desenvolvido seguindo boas práticas de desenvolvimento backend.
